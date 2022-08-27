@@ -40,7 +40,6 @@ h1 {
     color: white;
 }
 
-/* 2nd part */
 .donate {
     text-align: center;
     height: 570px;
@@ -93,7 +92,6 @@ h2 {
     margin-bottom: 40px;
 }
 
-/* 3rd part. */
 .donation-part {
     text-align: center;
 }
@@ -130,4 +128,45 @@ h2 {
 
 .medicine {
     background-color: #f8e4ec;
+}
+
+.my-updates {
+    text-align: center;
+}
+
+.subscribe-form {
+    height: 200px;
+    width: 50%;
+    background-color: #fce6dd;
+    text-align: center;
+    font-size: 85px;
+    margin: 60px 0 100px 370px;
+}
+
+.field {
+    text-decoration: none;
+    text-align: center;
+    border: none;
+}
+
+#email {
+    padding: 10px;
+}
+
+footer h5 {
+    font-size: 28px;
+    font-family: cursive;
+    color: #f94ac7;
+    padding-top: 30px;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    border-radius: 10px;
+}
+
+footer p {
+    color: white;
+    padding-bottom: 30px;
 }
