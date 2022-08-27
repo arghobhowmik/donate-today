@@ -56,7 +56,7 @@ h2 {
     text-align: center;
 }
 
-.donate-today p {
+.donate-paragraph {
     font-size: 20px;
 }
 
@@ -91,4 +91,43 @@ h2 {
     background: 40px;
     text-align: center;
     margin-bottom: 40px;
+}
+
+/* 3rd part. */
+.donation-part {
+    text-align: center;
+}
+
+.donate-type {
+    display: flex;
+    margin: 40px 0px 80px 140px;
+}
+
+.donate-type div h4 {
+    font-size: 25px;
+}
+
+.donate-type div {
+    width: 350px;
+    height: 250px;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 20px;
+}
+
+.donate-type div img {
+    width: 20%;
+    height: 20%;
+}
+
+.food {
+    background-color: #d9f3ea;
+}
+
+.shelter {
+    background-color: #f1e7e3;
+}
+
+.medicine {
+    background-color: #f8e4ec;
 }
